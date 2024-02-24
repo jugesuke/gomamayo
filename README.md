@@ -8,6 +8,10 @@ Gomamayo provides checking a term if it is _[Gomamayo](https://3qua9la-notebook.
 
 <!-- [[日本語版Readmeはこちら]](./README.ja.md) -->
 
+## What is _Gomamayo_ ?
+
+Gomamayo is a term which has consecutive pronunciation between words, like Go**ma**-**ma**yo salad and Ghos**t** **T**rick.
+
 ## Getting Started
 
 ### Usage
